@@ -4,7 +4,7 @@
 
 ---
 
-AI governance and cybersecurity GRC professional with CompTIA Security+ certification, IAPP AIGP exam candidacy, and 20 years of regulatory compliance, risk assessment, and legal advisory experience. I specialize in translating complex regulatory and technical requirements into practical security controls, audit-ready documentation, and defensible compliance programs.
+I'm a Practical AI GRC professional — focused on making AI governance work operationally inside organizations, not just on paper. My background combines 20+ years of legal and compliance practice, hands-on AI model evaluation (RLHF), CompTIA Security+, and AIGP candidacy. The projects in this portfolio are built to demonstrate what AI governance looks like when it has to survive contact with real procurement teams, real vendors, and real business pressure.
 
 As an AI Evaluation Specialist with RWS TrainAI, I perform RLHF-based model evaluation, assess AI reasoning chains for soundness, and test multimodal AI outputs for quality and accuracy. Pursuing the IAPP AIGP certification to formalize expertise in AI risk management frameworks including NIST AI RMF, ISO/IEC 42001, and the EU AI Act.
 
