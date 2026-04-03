@@ -1,10 +1,10 @@
 # Jonathan W. Doolan
 
-**AI Governance & Cybersecurity GRC Analyst | AIGP Exam Candidate | CompTIA Security+ | J.D.**
+**Compliance & GRC Analyst | Healthcare & AI Governance | AIGP Exam Candidate | CompTIA Security+ | J.D.**
 
 ---
 
-I'm a Practical AI GRC professional — focused on making AI governance work operationally inside organizations, not just on paper. My background combines 20+ years of legal and compliance practice, hands-on AI model evaluation (RLHF), CompTIA Security+, and AIGP candidacy. The projects in this portfolio are built to demonstrate what AI governance looks like when it has to survive contact with real procurement teams, real vendors, and real business pressure.
+I am a compliance and GRC analyst focused on healthcare GRC and healthcare AI governance. My background combines 20+ years of legal and regulatory practice in highly regulated industries, hands-on AI model evaluation (RLHF), CompTIA Security+, and AIGP candidacy. The projects in this portfolio demonstrate applied GRC work across HIPAA, NIST CSF, ISO 27001, and AI risk management frameworks.
 
 As an AI Evaluation Specialist with RWS TrainAI, I perform RLHF-based model evaluation, assess AI reasoning chains for soundness, and test multimodal AI outputs for quality and accuracy. Pursuing the IAPP AIGP certification to formalize expertise in AI risk management frameworks including NIST AI RMF, ISO/IEC 42001, and the EU AI Act.
 
