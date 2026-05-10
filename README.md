@@ -1,30 +1,46 @@
 # Jonathan W. Doolan
 
-**Compliance & GRC Analyst | Healthcare & AI Governance | AIGP Exam Candidate | CompTIA Security+ | J.D.**
+**AI Governance & Cybersecurity GRC Analyst | AIGP Candidate | J.D. | Author, *The Combination Engine***
 
 ---
 
-I am a compliance and GRC analyst focused on healthcare GRC and healthcare AI governance. My background combines 20+ years of legal and regulatory practice in highly regulated industries, hands-on AI model evaluation (RLHF), CompTIA Security+, and AIGP candidacy. The projects in this portfolio demonstrate applied GRC work across HIPAA, NIST CSF, ISO 27001, and AI risk management frameworks.
+AI governance and cybersecurity GRC professional translating two decades of regulatory practice into AI-enabled risk and compliance work. I read regulations the way regulators read them, translate them into operational requirements engineers and product teams can act on, and build the documentation trail that survives an audit.
 
-As an AI Evaluation Specialist with RWS TrainAI, I perform RLHF-based model evaluation, assess AI reasoning chains for soundness, and test multimodal AI outputs for quality and accuracy. Pursuing the IAPP AIGP certification to formalize expertise in AI risk management frameworks including NIST AI RMF, ISO/IEC 42001, and the EU AI Act.
+My focus is governance and translation — overseeing AI-enabled work, connecting cross-functional teams, and producing defensible artifacts — rather than hands-on technical engineering. The technical projects in this profile were directed and documented by me with AI tooling doing the implementation work; that's exactly the seat the AIGP credential is designed to fill.
 
-My legal career includes representing healthcare systems on HIPAA/HITECH matters, serving as corporate counsel conducting internal investigations and compliance audits, and advising insurance carriers on risk analysis and mitigation strategy. I now apply that foundation to cybersecurity governance, risk management, compliance, and AI governance.
+## Featured Work
 
-## Portfolio Projects
+* **[*The Combination Engine: How AI and the Patent Record Are Changing the Way We Discover Innovation*](https://www.amazon.it/Combination-Engine-Changing-Discover-Innovation-ebook/dp/B0GX34MMFR)** (book, 2026) — Practical guide to AI-assisted patent search for cross-domain innovation discovery. Covers TRIZ inventive principles, expired-patent revival, semantic search, and the legal-and-ethical guardrails of responsible AI use. Approximately 43,000 words, published via Amazon KDP.
 
-* [Risk Register & Treatment Implementation](https://github.com/Doolanjw/risk-register-treatment-implementation) — Built a comprehensive risk register with structured likelihood/impact scoring (58% average risk reduction), implemented MFA enforcement and centralized logging, and documented audit-ready evidence of control effectiveness.
-* [Globex Healthcare Security Assessment](https://github.com/Doolanjw/globex-healthcare-security-assessment) — Conducted a security assessment for a simulated healthcare organization, evaluating controls against NIST frameworks and delivering prioritized remediation recommendations.
-* [Web Application Vulnerability Assessment](https://github.com/Doolanjw/web-vulnerability-assessment) — Performed a comprehensive web application security assessment using Nmap, Dirb, Burp Suite, and Wapiti, identifying medium-to-high risk findings with business impact analysis.
-* [Security Automation & Monitoring](https://github.com/Doolanjw/security-automation-monitoring) — Configured Windows audit policies for logon monitoring, developed PowerShell scripts for automated compliance reporting, and built a real-time security monitoring dashboard.
+* **AI Governance Program Design** — Practical AI governance artifacts including use-case intake, risk tiering, policy drafting, and governance workflows.
+
+* **Resume Tailoring Workflow** — Structured resume-generation system that separates source data, JD analysis, and output rendering. Designed by me; technical implementation AI-assisted.
+
+## Portfolio Projects (AI-assisted; directed and documented by me)
+
+* **[Risk Register & Treatment Implementation](https://github.com/Doolanjw/risk-register-treatment-implementation)** — AI-assisted enterprise risk register design with structured likelihood/impact scoring methodology. Directed end-to-end project covering control design (MFA, logging, audit evidence) and audit-ready documentation.
+
+* **[Globex Healthcare Security Assessment](https://github.com/Doolanjw/globex-healthcare-security-assessment)** — Security assessment for a simulated healthcare organization. Mapped controls against NIST frameworks and produced prioritized remediation recommendations.
+
+* **[Web Application Vulnerability Assessment](https://github.com/Doolanjw/web-vulnerability-assessment)** — Directed AI-assisted web application security assessment exercise using Nmap, Dirb, Burp Suite, and Wapiti as part of cybersecurity training. Documented findings with business-impact analysis.
+
+* **[Security Automation & Monitoring](https://github.com/Doolanjw/security-automation-monitoring)** — Directed AI-assisted security monitoring exercise: Windows audit policy configuration, PowerShell automated compliance reporting, and a real-time security monitoring dashboard. Documented; implementation work AI-assisted.
 
 ## Certifications & Education
 
-* **AIGP Exam Candidate** — IAPP (International Association of Privacy Professionals), 2026
-* **CompTIA Security+ (SY0-701)** — Issued January 2026
+* **Artificial Intelligence Governance Professional (AIGP)** — IAPP, exam candidate (expected 2026)
+* **AI for Business Specialization** — Wharton (University of Pennsylvania) via Coursera, 2026
+* **Azure AI and Healthcare Cloud Fundamentals** — Microsoft via Coursera, 2026
+* **CompTIA Security+ (SY0-701)** — January 2026
 * **Professional Certificate in Cybersecurity** — Purdue University (via Simplilearn), 2025
-* **Juris Doctor (J.D.), Cum Laude** — University of Memphis Cecil C. Humphreys School of Law
-* **B.A. English** — The University of the South (Sewanee)
+* **Juris Doctor, Cum Laude** — University of Memphis Cecil C. Humphreys School of Law, 2005
+  * *Federal judicial clerkship, Hon. Jon Phipps McCalla, U.S. District Court (W.D. Tenn.), 2004*
+  * *Notes & Comments Editor, Memphis Law Review*
+* **B.A. English** — The University of the South (Sewanee), 2000
+  * *Sewanee British Studies summer program at Oxford, England*
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/jonathanwdoolangrc)
+* **LinkedIn:** [in/jonathanwdoolangrc](https://www.linkedin.com/in/jonathanwdoolangrc)
+* **Email:** doolanjw0@gmail.com
+* **Location:** Knoxville, TN — open to remote roles
